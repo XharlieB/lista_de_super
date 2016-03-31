@@ -1,0 +1,66 @@
+body{
+	background-image:url();
+	background-size: 100%;
+	-webkit-margin-before:0;
+	
+}
+header{
+	background-color: black;
+	
+}
+h4{	
+	color: white;	
+}
+nav{
+
+}
+main{
+	display: flex;
+}
+section{
+	text-align: center;
+	width: 70%;
+}
+aside{
+	margin-top: 0;
+	width: 30%;
+	color: white;
+	font: arial;
+	background-color: black;
+	text-align: left;
+	background-image:url(http://m1.paperblog.com/i/80/800156/andy-gilmore-diseno-grafico-patrones-ii-L-VXW7zC.jpeg);
+	background-size: 100%
+
+}
+footer{
+	color: grey;
+	background-color: black;
+	text-align: center;
+}
+.temas{
+	color: grey;
+	font-size: 25px;
+}
+.comida {
+	width: 100px 
+} /*<se pone punto para <class>*/
+ /*y # para <id>*/
+ .cuerpo {
+ 	width: 100px
+ }
+ .oficina{
+ 	width: 100px
+ }
+ .palabras{
+	color: grey;
+}
+#cheetos {
+	width: 85px
+ }
+ 
+#sacapuntas{
+	width: 95px
+}
+#crema{
+	width: 85px
+}
